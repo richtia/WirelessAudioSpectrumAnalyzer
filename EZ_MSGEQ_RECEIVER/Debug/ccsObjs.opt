@@ -1,0 +1,1 @@
+"./TI_CC/TI_CC_spi.obj" "./TI_CC/CC2500.obj" "./SR_put_byte_2274.obj" "./SR_2274.obj" -l"libc.a" "../lnk_msp430f2274.cmd" 
